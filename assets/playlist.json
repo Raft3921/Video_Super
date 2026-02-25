@@ -1,8 +1,13 @@
 {
   "files": [
     {
-      "title": "Web Sample",
+      "title": "サンプル1",
       "file": "web-sample.mp4",
+      "contentType": "video/mp4; codecs=\"avc1.4d401f\""
+    },
+    {
+      "title": "サンプル2",
+      "file": "web-sample2.mp4",
       "contentType": "video/mp4; codecs=\"avc1.4d401f\""
     }
   ]
