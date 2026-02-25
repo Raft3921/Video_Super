@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "title": "動画1",
+      "file": "movie1.mp4",
+      "contentType": "video/mp4; codecs=\"avc1.640028\"",
+      "width": 1920,
+      "height": 1080,
+      "bitrate": 8000000,
+      "framerate": 30
+    },
+    {
+      "title": "動画2",
+      "file": "movie2.mov",
+      "contentType": "video/quicktime; codecs=\"hvc1\"",
+      "width": 1920,
+      "height": 1080,
+      "bitrate": 10000000,
+      "framerate": 30
+    }
+  ]
+}
