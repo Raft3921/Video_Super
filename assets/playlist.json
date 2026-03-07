@@ -9,6 +9,11 @@
       "title": "サンプル2",
       "file": "web-sample2.mp4",
       "contentType": "video/mp4; codecs=\"avc1.4d401f\""
+    },
+    {
+      "title": "zelda1_h264",
+      "file": "web-zelda1.mp4",
+      "contentType": "video/mp4; codecs=\"avc1.4d401f\""
     }
   ]
 }
