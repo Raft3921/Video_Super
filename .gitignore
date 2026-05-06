@@ -1,4 +1,5 @@
 .DS_Store
 assets/source/
 assets/git-ready/
+assets/*.mov
 assets/zelda1_h264.mp4
